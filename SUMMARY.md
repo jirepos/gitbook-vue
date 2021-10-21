@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [개요](README.md)
 * [Component](component/README.md)
   * [Tag Input Component](component/tag-input-component.md)
   * [Tag Input Component](component/tag-input-component-1.md)
