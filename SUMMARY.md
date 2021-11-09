@@ -56,3 +56,8 @@
   * [v-model custom](vue3-lesson/09-v-model-custom.md)
   * [Computed와 Watch](vue3-lesson/10-computed-watch.md)
   * [Slots](vue3-lesson/11-slots.md)
+  * [Directive](vue3-lesson/12-directive.md)
+  * [Provide와 Inject](vue3-lesson/13-provide-inject.md)
+* [Vite](vite/README.md)
+  * [tsc.config](vite/tsc-config.md)
+
