@@ -58,6 +58,12 @@
   * [Slots](vue3-lesson/11-slots.md)
   * [Directive](vue3-lesson/12-directive.md)
   * [Provide와 Inject](vue3-lesson/13-provide-inject.md)
+  * [vue-router](vue3-lesson/14-vue-router.md)
+  * [Vuex](vue3-lesson/15-vuex.md)
+  * [Plugin](vue3-lesson/16-plugin.md)
+  * [외부라이브러리 사용](vue3-lesson/18-external-library.md)
+  * [jQuery 컴포넌트 사용](vue3-lesson/19-jquery-component.md)
+  * 
 * [Vite](vite/README.md)
   * [tsc.config](vite/tsc-config.md)
 
